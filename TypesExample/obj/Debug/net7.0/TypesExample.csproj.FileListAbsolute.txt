@@ -1,0 +1,15 @@
+C:\Users\sbowm\OneDrive\Desktop\repos\TypesExample\TypesExample\bin\Debug\net7.0\TypesExample.exe
+C:\Users\sbowm\OneDrive\Desktop\repos\TypesExample\TypesExample\bin\Debug\net7.0\TypesExample.deps.json
+C:\Users\sbowm\OneDrive\Desktop\repos\TypesExample\TypesExample\bin\Debug\net7.0\TypesExample.runtimeconfig.json
+C:\Users\sbowm\OneDrive\Desktop\repos\TypesExample\TypesExample\bin\Debug\net7.0\TypesExample.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\TypesExample\TypesExample\bin\Debug\net7.0\TypesExample.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\TypesExample\TypesExample\obj\Debug\net7.0\TypesExample.csproj.AssemblyReference.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\TypesExample\TypesExample\obj\Debug\net7.0\TypesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbowm\OneDrive\Desktop\repos\TypesExample\TypesExample\obj\Debug\net7.0\TypesExample.AssemblyInfoInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\TypesExample\TypesExample\obj\Debug\net7.0\TypesExample.AssemblyInfo.cs
+C:\Users\sbowm\OneDrive\Desktop\repos\TypesExample\TypesExample\obj\Debug\net7.0\TypesExample.csproj.CoreCompileInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\TypesExample\TypesExample\obj\Debug\net7.0\TypesExample.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\TypesExample\TypesExample\obj\Debug\net7.0\refint\TypesExample.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\TypesExample\TypesExample\obj\Debug\net7.0\TypesExample.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\TypesExample\TypesExample\obj\Debug\net7.0\TypesExample.genruntimeconfig.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\TypesExample\TypesExample\obj\Debug\net7.0\ref\TypesExample.dll
